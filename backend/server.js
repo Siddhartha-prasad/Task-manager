@@ -11,7 +11,7 @@ const taskRoutes= require("./routes/taskRoutes");
 
 
 app.use(cors({
-    origin: "https://task-manager-three-bay.vercel.app/",
+    origin: "https://task-manager-three-bay.vercel.app",
     credentials: true
 }));
 app.use(express.json());
