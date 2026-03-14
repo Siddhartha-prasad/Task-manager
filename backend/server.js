@@ -10,7 +10,10 @@ const taskRoutes= require("./routes/taskRoutes");
 
 
 
-app.use(cors());
+app.use(cors({
+    origin: "https://task-manager-three-bay.vercel.app/",
+    credentials: true
+}));
 app.use(express.json());
 
 app.use("/api/auth", authRoutes);
