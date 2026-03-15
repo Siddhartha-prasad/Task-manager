@@ -40,27 +40,4 @@ https://your-frontend-link.vercel.app](https://task-manager-three-bay.vercel.app
 Backend API:  
 https://task-manager-fa5e.onrender.com
 
----
-
-## 📂 Project Structure
-
-task-manager
-│
-├── frontend
-│ ├── src
-│ │ ├── components
-│ │ ├── pages
-│ │ ├── App.js
-│ │ └── index.js
-│ └── package.json
-│
-├── backend
-│ ├── controllers
-│ ├── models
-│ ├── routes
-│ ├── config
-│ ├── server.js
-│ └── package.json
-│
-└── README.md
 
