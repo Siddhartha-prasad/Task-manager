@@ -35,7 +35,7 @@ Deployment
 ## 🌐 Live Demo
 
 Frontend:  
-https://your-frontend-link.vercel.app](https://task-manager-three-bay.vercel.app/
+https://task-manager-three-bay.vercel.app/
 
 Backend API:  
 https://task-manager-fa5e.onrender.com
